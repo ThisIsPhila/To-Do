@@ -1,2 +1,2 @@
 # to-do
-Simple ToDo List App
+A Simple TODO List App
